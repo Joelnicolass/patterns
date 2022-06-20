@@ -46,3 +46,6 @@ export class Singleton {
     return this.states;
   }
 }
+
+// solo existe una instancia de la clase
+// es un patron de diseño de tipo creacional

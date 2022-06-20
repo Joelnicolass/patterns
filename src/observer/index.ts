@@ -54,3 +54,6 @@ export class Observer implements IObserver {
     console.log(`${this.name} has been updated with ${data}`);
   }
 }
+
+// Patron de Comportamiento
+// comunicacion entre objetos

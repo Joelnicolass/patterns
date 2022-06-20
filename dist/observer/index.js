@@ -43,3 +43,5 @@ class Observer {
     }
 }
 exports.Observer = Observer;
+// Patron de Comportamiento
+// comunicacion entre objetos

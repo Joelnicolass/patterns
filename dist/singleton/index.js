@@ -34,3 +34,5 @@ class Singleton {
     }
 }
 exports.Singleton = Singleton;
+// solo existe una instancia de la clase
+// es un patron de diseño de tipo creacional

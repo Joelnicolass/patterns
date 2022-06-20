@@ -63,3 +63,6 @@ export class StrategyB implements IStrategy {
     console.log(`${this.name} strategy executed`);
   }
 }
+
+// Patron de Comportamiento
+// comunicacion entre objetos

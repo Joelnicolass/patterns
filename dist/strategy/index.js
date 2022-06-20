@@ -45,3 +45,5 @@ class StrategyB {
     }
 }
 exports.StrategyB = StrategyB;
+// Patron de Comportamiento
+// comunicacion entre objetos
